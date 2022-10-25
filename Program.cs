@@ -174,4 +174,4 @@ int[,] myArray = Create2DRandomArray(m,n,min,max);
 Show2DArray(myArray);
 Console.Write("Среднее арифметическое каждого столбца: ");
 SumColums(myArray);
-//Console.WriteLine(result);
+
